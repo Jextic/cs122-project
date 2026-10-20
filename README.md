@@ -13,5 +13,5 @@ Our project will track and analyze pricing trends for various GPUs from online b
   Our interface would include a large selection of recordable GPUs. Clicking on a GPU will open a popup window displaying a line plot graph of recorded prices over time for that specific GPU. There will be multiple line plots indicating which businesses those prices were recorded from. There would be buttons for users to select their preferred GPU, filter data, change the appearance of the data, and more.
 - **Data Collection and Storage Plan:**\
   Importing Python's requests and BeautifulSoup libraries would help fetch the GPU names and prices from online websites. Some businesses like BestBuy also have a developer API that can be used to fetch data as well. Most likely, the raw data would be stored and organized in an Excel file.
-- **Data Analyis and Visualization Plan:**\
-  
+- **Data Analysis and Visualization Plan:**\
+  Analyzes the prices on different days and checks the trend of when the price is at the lowest to see when is the best place and best time to buy. We will use a time series graph to track the pricing on different websites and plot the time and date.
