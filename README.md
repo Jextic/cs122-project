@@ -1,2 +1,9 @@
-# cs122-project
-Python Project for CS 122
+**Project Title**
+
+**Authors:**
+- Johnny Huynh
+- An Pham
+
+**Project Description:**
+
+**Project Plan:**
